@@ -1,0 +1,8 @@
+employee_id,first_name,last_name,salary,joining_date,department
+1,Jack,Zu,75000,1/1/2013,MANAGEMENT
+2,Ashley,Leach,90000,1/1/2013,SERVICES
+3,Amna,Robles,95000,2/1/2013,SERVICES
+4,Martin,Mullen,65000,2/1/2014,BANKING
+5,Jerry,Pinto,70000,3/1/2015,BANKING
+6,Alex,Baran,80000,2/1/2014,MANAGEMENT
+7,John,Smith,100000,1/1/2013,DIRECTOR
